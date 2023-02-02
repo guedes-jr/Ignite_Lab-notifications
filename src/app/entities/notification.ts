@@ -15,7 +15,8 @@ export class Notification {
   private _id: string;
   private props: NotificationProps;
 
-  constructor(props: Replace<NotificationProps, { createdAt?: Date}>) {
+  constructor(props: Replace<NotificationProps, { createdAt?: Date}>, 
+    id?: string) {
     this._id = randomUUID();
     this.props = {
       ...props,
