@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Descrição
-
+Essa é uma aplicação back end para gerenciamento do envio de notificações, usando o Nest, Prisma, dentre outras tecnologias. Além da implentação de testes que intercedem a execução da aplicação antes mesmo que executá-la.
 [Nest](https://github.com/nestjs/nest) Repositório inicial do TypeScript da estrutura.
 
 ## Instalação
